@@ -1,0 +1,15 @@
+# load json file in the code,
+# use function ->
+    import json
+    var = josn.loads(orig_var)
+    // var is the list of json objects which is ultimately a dictionary of some features
+    // address the features as it is and use where it is needed.
+
+# As of now I am trying to determine what can be used to detect the question in the given problem statement.
+    # =>: Generating a random function to select 10 instances of problem statement randomly so that,
+          I can see the effect of what could be done to improve the result.
+
+        import random
+        var = random.randint(start, end)
+        # start <= var <= end
+
