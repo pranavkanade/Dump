@@ -8,7 +8,7 @@ class QuestionExtraction:
     def extract_training_corpus(self):
         # This function returns the corpus as json object(list of dictionaries)
         # this path has to be absolute
-        with open('./../../training_data/'+self.data_file, "r") as training_corpus:
+        with open('./../training_data/'+self.data_file, "r") as training_corpus:
             training_corpus = training_corpus.read()
         training_corpus_json = json.loads(training_corpus)
         return training_corpus_json

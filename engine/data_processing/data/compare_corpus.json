@@ -1,0 +1,1287 @@
+[
+    {
+        "iClass":1,
+        "iIndex":1,
+        "sQuestion":"Elyse has 36 ribbons. Allie has 12 more than Elyse. How many ribbons does Allie have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":2,
+        "sQuestion":"Zach has 14 cars. Derik has 7 cars. How many more cars does Zach have than Derik?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":3,
+        "sQuestion":"Haylee has 4 markers. Reyna has 3 markers. How many more markers does Haylee have than Reyna?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":4,
+        "sQuestion":"Chris has 9 balls and Zachary has 6 balls. How many more balls does Chris have than Zachary?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":5,
+        "sQuestion":"Ali has 13 markers. Tyler has 9 markers. How many more markers does Ali have than Tyler?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":6,
+        "sQuestion":"Mason has 3 pencils. Marissa has 2 pencils. How many more pencils does Mason have than Marissa?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":7,
+        "sQuestion":"Jal has 6 crayons. Jayden has 3 crayons. How many more crayons does Jal have than Jayden?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":8,
+        "sQuestion":"Riky has 5 markers. Haley has 2 markers. How many more markers does Riky have than Haley?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":9,
+        "sQuestion":"Tyler has 4 markers. Nathan has 5 markers. How many more markers does Nathan have than Tyler?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":10,
+        "sQuestion":"Lauren played 4 hours. Bowen played 2 hours. How many more hours did Lauren play?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":11,
+        "sQuestion":"Jonah has 10 pennies. Kennedy has 7 pennies. How many more pennies does Jonah have than Kennedy?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":12,
+        "sQuestion":"Bozo has 4 dogs. Lucy has 3 dogs. How many more dogs does Bozo have than Lucy?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":13,
+        "sQuestion":"Brenden has 15 snowballs. Mrs. Plendl has 6 snowballs. How many more snowballs does Brenden have than Mrs. Plendl?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":14,
+        "sQuestion":"Roman has 3 books. Hannah has 9 more than Roman. How many books does Hannah have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":15,
+        "sQuestion":"Reyna has 3 markers. Haylee has 1 more marker than Reyna. How many markers does Haylee have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":16,
+        "sQuestion":"Madison has 4 blocks. Nyah has 6 more blocks than Madison. How many blocks does Nyah have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":17,
+        "sQuestion":"Angela has 6 mittens. Jordan has 4 more mittens more than Angela. How many mittens does Jordan have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":18,
+        "sQuestion":"Sydney has 8 markers. Logan has 2 more. How many markers does Logan have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":19,
+        "sQuestion":"Keyara has 3 character cash. Lawrence has 4 more than Keyara. How many character cash does Lawrence have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":20,
+        "sQuestion":"Nathan has 4 crackers. Garrett has 3 more than Nathan. How many crackers does Garrett have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":21,
+        "sQuestion":"Achiel has 3 cookies. Lytasia has 4 more than Achiel. How many cookies does Lytasia have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":22,
+        "sQuestion":"Kasidi rode in a car for 5 hours. Jadyn rode in a car 2 more hours than Kasidi. How many hours did Jadyn ride in the car?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":23,
+        "sQuestion":"Jonah has $5. Kennedy has $6 more than him. How much money does Kennedy have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":24,
+        "sQuestion":"Ben has 2 motorcycles. Jerry has 3 more motorcycles than Ben. How many motorcycles does Jerry have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":25,
+        "sQuestion":"Mrs. Hummel has 8 chicken nuggets. Mrs. Eckhoff has 3 more than Mrs. Hummel. How many chicken nuggets does Mrs. Eckhoff have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":26,
+        "sQuestion":"Philicity has 10 markers. She has 5 less markers than Maddy. How many markers does Maddy have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":27,
+        "sQuestion":"Haylee has 4 markers. She has 1 more marker than Reyna. How many markers does Reyna have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":28,
+        "sQuestion":"Jakob has 8 cookies. He has 5 more cookies than Sheridan. How many cookies does Sheridan have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":29,
+        "sQuestion":"Mason has 15 Skittles. He has 5 more than Emma. How many Skittles does Emma have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":30,
+        "sQuestion":"Micah has 15 goldfish crackers. He has 7 more than Isabella. How many goldfish crackers does Isabella have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":31,
+        "sQuestion":"Mariah has 1 character cash. She has 4 fewer than Miranda. How many character cash does Miranda have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":32,
+        "sQuestion":"Kylee has 8 Barbies. Kylee has 2 less than Erin. How many Barbies does Erin have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":33,
+        "sQuestion":"Skyla has 10 dolls. She has 2 more than Emma. How many does Emma have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":34,
+        "sQuestion":"Morgen was on vacation 5 days. He was on vacation 2 days longer than Bowen. How many days was Bowen on vacation?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":35,
+        "sQuestion":"Kennedy has 8 pennies. She has 6 more pennies than Jonah. How many pennies did Jonah have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":36,
+        "sQuestion":"Sam has 6 fire trucks. He has 4 fewer fire trucks than Al. How many fire trucks does Al have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":37,
+        "sQuestion":"Anthony has 9 books. He has 2 more books than Katie. How many books does Katie have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":38,
+        "sQuestion":"Samantha has 14 cars. KatLynn has 8 cars. How many more cars does Samantha have than KatLynn?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":39,
+        "sQuestion":"Mrs. DeBow has 17 cupcakes and Mrs. Johnson has 7 cupcakes. How many more cupcakes does Mrs. DeBow have than Mrs. Johnson?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":40,
+        "sQuestion":"Garren has 7 black crayons. Connor has 4 black crayons. How many more crayons does Garren have than Connor?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":41,
+        "sQuestion":"Jackie has 15 cents. Jen has 10 cents. How much more money does Jackie have than Jen?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":42,
+        "sQuestion":"Aspyn sleeps for 9 hours. Micaela sleeps for 13 hours. How many more hours does Micaela sleep than Aspyn?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":43,
+        "sQuestion":"The girls have 19 sleds. The boys have 8 sleds. How many more sleds do the girls have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":44,
+        "sQuestion":"The mitten has 12 animals. The umbrella has 10 animals. How many more animals does the mitten have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":45,
+        "sQuestion":"The owl has 12 colors of feathers. The hawk has 5. How many more colors does the owl have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":46,
+        "sQuestion":"Wyatt has 14 crackers. Todd has 6 crackers. How many more crackers does Wyatt have than Todd?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":47,
+        "sQuestion":"We have 12 students in our class. 2nd grade has 8 students. How many more students do we have than 2nd grade?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":48,
+        "sQuestion":"Michele has 21 CDs. Malcolm has 7 CDs. How many more CDs does Michele have than Malcolm?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":49,
+        "sQuestion":"There are 10 cats. There are 6 hats. How many more cats are there than hats?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":50,
+        "sQuestion":"Jonah has 13 Playstations. Henry has 9 Playstations. How many more Playstations does Jonah have than Henry?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":51,
+        "sQuestion":"Emma has 17 rings. Elizabeth has 3 rings. How many more rings does Emma have than Elizabeth?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":52,
+        "sQuestion":"Logan has 21 M & Ms. Cecil has 11 M & Ms. How many more M & Ms does Logan have than Cecil?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":53,
+        "sQuestion":"Tamantha has 4 cars. Abigail has 8 more cars than Tamantha. How many cars does Abigail have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":54,
+        "sQuestion":"Mrs. Johnson has 7 cupcakes & Mrs. DeBow has 10 more than Mrs. Johnson. How many cupcakes does Mrs. DeBow have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":55,
+        "sQuestion":"Lane has 10 granola bars. Ali has 3 more granola bars than Lane. How many granola bars does Ali have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":56,
+        "sQuestion":"Jackie has 25 cents. Jen has 10 cents more than Jackie. How much money does Jen have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":57,
+        "sQuestion":"Jakways plays basketball for 58 minutes. Micaela plays for 13 minutes more than Jakways. How long does Micaela play basketball?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":58,
+        "sQuestion":"The girls have 28 sleds. The boys have 4 more sleds than the girls. How many sleds to the boys have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":59,
+        "sQuestion":"The mitten has 12 animals. The hat has 3 more animals than the mitten. How many animals does the mitten have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":60,
+        "sQuestion":"The pelican has 4 fish to eat, the crane has 5 more. How many fish does the crane have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":61,
+        "sQuestion":"TJ has 8 marbles. Sarah has 6 more marbles than TJ. How many marbles does Sarah have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":62,
+        "sQuestion":"Candace has 6 cats. Moriah has 5 more cats than Candace. How many cats does Moriah have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":63,
+        "sQuestion":"Sam has 17 baseball cards. Steve has 12 more than Sam. How many baseball cards does Steve have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":64,
+        "sQuestion":"There are 4 hats. Sam has 6 more cats than hats. How many cats does Sam have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":65,
+        "sQuestion":"Ellie has 14 dolls. Mesa has 3 more than Ellie. How many dolls does Mesa have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":66,
+        "sQuestion":"Mesa has 17 dolls. Ellie has 3 less. How many dolls does Ellie have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":67,
+        "sQuestion":"Hunter has 5 fish. Lucas has 7 more than Hunter. How many fish does Lucas have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":68,
+        "sQuestion":"Tori has 9 cookies. She has 6 more than Anna. How many Cookies does Anna have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":69,
+        "sQuestion":"Noah has 15 cars. He has 7 more cars than Jordan. How many cars does Jordan have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":70,
+        "sQuestion":"Mrs. DeBow has 17 cupcakes. She has 10 more than Mrs. Johnson. How many cupcakes does Mrs. Johnson have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":71,
+        "sQuestion":"Sakura has 5 Barbies. She has 2 more than Nikenya. How many Barbies does Nikenya have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":72,
+        "sQuestion":"Jackie has 10 cents. She has 5 more cents than Jen. How much money does Jen have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":73,
+        "sQuestion":"Josie was in Bismark for 13 hours. She spent 7 more hours in Bismark than Loegan. How many hours did Loegan spend in Bismark?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":74,
+        "sQuestion":"The girls have 21 sleds. They have 8 more than the boys. How many sleds do the boys have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":75,
+        "sQuestion":"The mitten has 10 animals. It has 4 fewer animals than the hat. How many animals does the hat have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":76,
+        "sQuestion":"There are 7 eggs in a nest by the pond. It has 4 more eggs than the nest in the tree. How many eggs were in the nest by the tree?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":77,
+        "sQuestion":"Amy has 14 stuff ed animals. She has 5 more animals than Lauren. How many stuff ed animals does Lauren have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":78,
+        "sQuestion":"Sue has 9 ribbons for her hair. She has 2 more ribbons than Kim. How many ribbons does Kim have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":79,
+        "sQuestion":"Alicia has read 27 books. She has read 12 more than Josh. How many books has Josh read?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":80,
+        "sQuestion":"Sam has 10 cats. He has 4 less hats. How many hats does he have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":81,
+        "sQuestion":"Hanna has 6 brothers. She has 2 more than Cade. How many brothers does Cade have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":82,
+        "sQuestion":"Cade has 4 brothers. He has 2 less than Hanna. How many does Hanna have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":83,
+        "sQuestion":"Mia has 12 dolls. She has 3 more dolls than Callie. How many dolls does Callie have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":84,
+        "sQuestion":"Callie has 9 dolls. She has 3 less dolls than Mia. How many dolls does Mia have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":85,
+        "sQuestion":"Taylor has 17 cars. He has 9 more than Jordan. How many marbles does Jordan have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":86,
+        "sQuestion":"Shelby has 17 CDs. Asia has 12 CDs. How many more CDs does Shelby have than Asia?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":87,
+        "sQuestion":"Aspen has 11 ponytail holders. Bricee has 8 ponytail holders. How many fewer ponytail holders does Bricee have than Aspen?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":88,
+        "sQuestion":"Jeremy started reading his book at 9:12. He finished at 9:19. How many minutes did he read? (this was one of the questions on the sticky note that Marcia added)\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":89,
+        "sQuestion":"Joel started the paper route at 7:05. He worked for 25 minutes. When did he finish? (this was one of the questions on the sticky note that Marcia added)\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":90,
+        "sQuestion":"Jacob read for 15 minutes. He finished at 3:40. When did he start? (this was one of the questions on the sticky note that Marcia added)\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":91,
+        "sQuestion":"Four kids wear glasses. 17 kids do not wear glasses. How many more kids do not wear glasses than do?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":92,
+        "sQuestion":"Jacob has 18 rocks. Laura has 7 rocks. How many more rocks does Jacob have than Laura?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":93,
+        "sQuestion":"The king penguins have 13 eggs. The chinstrap penguins have 5 eggs. How many more eggs do the king penguins have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":94,
+        "sQuestion":"Hannah read for 35 minutes. Cody read for 20 minutes. How many more minutes did Hannah read than Cody?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":95,
+        "sQuestion":"The Leonardo team has 15 astronauts. The Intrepid team has 7 astronauts. How many more astronauts are on the Leonardo team?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":96,
+        "sQuestion":"Mohammed has 22 shells. Kendra has 17 shells. How many more shells does Mohammed have than Kendra?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":97,
+        "sQuestion":"Payton has 12 markers. Tessa has 7 markers. How many more markers does Payton have than Tessa?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":98,
+        "sQuestion":"Will has 35 mittens. Shali has 25 mittens. How many more mittens does Will have than Shali?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":99,
+        "sQuestion":"Carolyn has 15 dino. Kathryn has 5. How many more dino. does Carolyn have than Kathryn?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":100,
+        "sQuestion":"Kathy has 12 fish. Eric has 7 fish. How many more fish does Kathy have than Eric?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":101,
+        "sQuestion":"Jake picked 8 ears of corn and 17 carrots. How many more carrots did he pick?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":102,
+        "sQuestion":"Beth has 12 dinosaurs. Suzy has 7 dinosaurs. How many more dinosaurs does Beth have than Suzy?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":103,
+        "sQuestion":"There are 13 kids on the team. 4 are girls. How many are boys?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":104,
+        "sQuestion":"Jacky has 18 hats. Tracy had 15. How many more hats does Jacky have than Tracy?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":105,
+        "sQuestion":"Reanna has 53 box tops. Autumn has 27 box tops. How many more box tops does Reanna have than Autumn?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":106,
+        "sQuestion":"Asia has 12 CDs. Shelby has 5 more than Asia. How many CDs does Shelby have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":107,
+        "sQuestion":"Eight kids wore tennis shoes. There were 5 more kids not wearing tennis shoes than wearing tennis shoes. How many kids were not wearing tennis shoes?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":108,
+        "sQuestion":"Jacob has 18 rocks. Laura has 7 less than Jacob. How many rocks does Laura have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":109,
+        "sQuestion":"The king penguins have 7 eggs. The chinstrap penguins have 8 more eggs than the king penguins. How many eggs do the chinstrap penguins have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":110,
+        "sQuestion":"Zeb played football for 15 minutes. Layne played football 10 more minutes than Zeb. How many minutes did Layne play football?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":111,
+        "sQuestion":"Leonardos astronauts have 12 food packs. Intrepid astronauts have 6 more than Leonardo. How many food packs does the Intrepid have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":112,
+        "sQuestion":"Kailyn has 19 Bratz dolls. Shannon has 7 more than Kailyn. How many dolls does Shannon have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":113,
+        "sQuestion":"Arijeta has 6 pencils. Isiah has 5 more pencils than Arijeta. How many pencils does Isiah have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":114,
+        "sQuestion":"Ellen has 50 mittens. She has 20 more mittens than Cole. How many mittens does Cole have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":115,
+        "sQuestion":"Leander has 10 T-Rex dinosaurs. Caleb has 5 more than Leander. How many dinosaurs does Caleb have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":116,
+        "sQuestion":"Caleb has 12 dinosaurs. Leander has dinos too. He has 3 fewer dinosaurs than Caleb. How many dinosaurs does Leander have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":117,
+        "sQuestion":"Jurie has 8 fish. James has 7 more fish than Jurie. How many fish does James have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":118,
+        "sQuestion":"Betty found 13 applies on the ground. She found 5 more cherries than apples. How many cherries did Betty find?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":119,
+        "sQuestion":"Beth has 7 dinosaurs. Suzy has 5 more dinosaurs than Beth. How many dinosaurs does Suzy have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":120,
+        "sQuestion":"Dylan had 9 hits, Tyler had 4 more hits. How many did Tyler have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":121,
+        "sQuestion":"Jacky has 18 hats. Tracy has 3 fewer. How many hats does Tracy have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":122,
+        "sQuestion":"John has 17 CDs. Tom has 13 more than John. How many CDs does Tom have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":123,
+        "sQuestion":"Shelby has 17 CDs. She has 5 more than Asia. How many CDs does Asia have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":124,
+        "sQuestion":"Eight kids wore tennis shoes. There were 5 less tennis shoe wearers than those not wearing tennis shoes. How many were not wearing tennis shoes?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":125,
+        "sQuestion":"Jacob has 18 rocks. He has 11 more than Laura. How many rocks does Laura have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":126,
+        "sQuestion":"The king penguins have 9 eggs. They have 6 more eggs than the chinstrap penguins. How many eggs do the chinstrap penguins have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":127,
+        "sQuestion":"Kourtney played outside for 25 minutes. She played 15 minutes longer than DeAnne. How long did DeAnne play outside?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":128,
+        "sQuestion":"Leonardo has 14 tasks to complete at their station. They have 5 more tasks than Intrepid. How many tasks does the Intrepid have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":129,
+        "sQuestion":"Joey has a toy car that is 16 cm. long. His is 8 cm. longer than Calebs. How long is Calebs car?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":130,
+        "sQuestion":"Emily has 12 books about horses. She has 4 more than Dzenan. How many books does Dzenan have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":131,
+        "sQuestion":"Connor has 40 mittens. He has 15 more mittens than Garret. How many mittens does Garret have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":132,
+        "sQuestion":"Samuel has 15 dinosaurs. He has 8 more than Brianna. How many dinosaurs does Brianna have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":133,
+        "sQuestion":"Brianna has 8 dinosaurs. She has 5 fewer than Caleb. How many does Caleb have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":134,
+        "sQuestion":"Gretta has 16 fish. She has 7 more than Captain Cook. How many fish does he have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":135,
+        "sQuestion":"Jake has 15 goats. He has 4 fewer than Bob. How many does Bob have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":136,
+        "sQuestion":"Beth has 12 dinosaurs. She has 5 more than Suzy. How many dinosaurs does Suzy have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":137,
+        "sQuestion":"Keck has 3 hats. He has 1 more than Jon. How many does Jon have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":138,
+        "sQuestion":"Tracy has 15 hats. She has 3 less than Jacky. How many hats does Jacky have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":139,
+        "sQuestion":"Sue has 51 books. She has 16 more books than Rhonda. How many books does Rhonda have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":140,
+        "sQuestion":"Lynn has 147 pieces of paper in her desk. Skyler has 128 pieces of paper in his desk. How many more pieces of paper does Lynn have than Skyler?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":141,
+        "sQuestion":"Amanda has 26 crackers. Jelsie has 17 crackers. How many more crackers does Amanda have than Jelsie?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":142,
+        "sQuestion":"Will has 42 baseball cards. Johnny has 33 baseball cards. How many more cards does will have than Johnny?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":143,
+        "sQuestion":"Tara has $175.00. Mike has $133.00. How much more money does Tara have than Mike?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":144,
+        "sQuestion":"Willie had 36 crayons and 6 boxes. How many crayons are in each box?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":145,
+        "sQuestion":"Mark has $7.53 and Kristen has $13.84. Can they go together to buy a DVD that costs $50.00? If they can what is their change, if not, how much more do they need?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":146,
+        "sQuestion":"Shelise had 26 markers. Cherie has 19 markers. How many more markers does Shelise have than Cherie?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":147,
+        "sQuestion":"Dingo has 32 puppies, Maggie has 60 puppies. How many more puppies does Maggie have than Dingo?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":148,
+        "sQuestion":"Ed has 23 fish. Gary has 15 fish. How many more fish does Ed have than Gary?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":149,
+        "sQuestion":"Emily found 86 seashells at the beach. Sara found 49 seashells. How many more seashells did Emily find than Sara?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":150,
+        "sQuestion":"There are 164 boys at Lowell. There are 158 girls. How many more boys are there than girls?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":151,
+        "sQuestion":"Colin read 3,291 pages and Will read 1,425 pages. How many more pages did Colin read than Will?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":152,
+        "sQuestion":"Chris has 10 markers. Grayson has 4. How many more markers does Chris have than Grayson?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":153,
+        "sQuestion":"Connie has 728 marbles & Juan has 374 marbles. About how many more marbles does Connie have than Juan? \n"
+    },
+    {
+        "iClass":1,
+        "iIndex":154,
+        "sQuestion":"Wynter has 19 horses. Ms. Taylor has 13 horses. How many more horses does Wynter have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":155,
+        "sQuestion":"Bridget has 12 Bratz dolls. Brianna has 8 Bratz dolls. How many more Bratz dolls does Bridget have than Brianna?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":156,
+        "sQuestion":"Goodly has learned 5 new songs. Angel has learned 2 new songs. How many more songs has Goodly learned than Angel?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":157,
+        "sQuestion":"Tacky saw  3 Orcas and 5 Leopard seals in the ocean. How many more Leopard seals did he see?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":158,
+        "sQuestion":"Team A has 34 points. Team B has 20 points. How many more points does Team A have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":159,
+        "sQuestion":"Sally brought 52 blue napkins. Pam brought 37 purple napkins. How many more napkins does Sally have then Pam?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":160,
+        "sQuestion":"Michelle has 13 necklaces. Chelsea has 6 necklaces. How many more necklaces does Michelle have than Chelsea?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":161,
+        "sQuestion":"Amy has 61 crayons. Julie has 47 crayons. How many more crayons does Amy have than Julie?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":162,
+        "sQuestion":"Adrienne has 569 small stickers in her sticker book. Jacque has 128 more. How many stickers does Jacque have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":163,
+        "sQuestion":"Amanda has 31 crackers. Jelsie has 17 more crackers than Amanda. How many crackers does Jelsie have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":164,
+        "sQuestion":"Ted has 15 bricks. Hayden has 7 more bricks than Ted. How many bricks does Hayden have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":165,
+        "sQuestion":"Dakota has $67.00. Dillon has $19.00 dollars more than Dakota. How much money does Dillon have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":166,
+        "sQuestion":"Zach has 3 times as many cards as Jacob. If Jacob has 6 cards, how many cards does Zach have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":167,
+        "sQuestion":"Mary has 3,286 marbles. Mark has 846 more than Mary. How many marbles does Mark have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":168,
+        "sQuestion":"Jolena has 21 colored pencils. Kevin has 9 more colored pencils than Jolena. How many colored pencils does Jolena have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":169,
+        "sQuestion":"Austin has 27 Legos. Noah has 33 more Legos than Austin. How many Legos does Noah have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":170,
+        "sQuestion":"Kim has 53 ribbons for her hair. Hope has 27 more than Kim. How many ribbons does Hope have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":171,
+        "sQuestion":"Austin has 43 CDs. Katie has 9 more CDs than Austin. How many CDs does Katie have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":172,
+        "sQuestion":"There are 158 girls at Lowell. There are 6 more boys than girls. How many boys go to Lowell?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":173,
+        "sQuestion":"Rachel read that 843 people attended the football game last week. Th is week 64 more attended. How many people attended the football game this weekend?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":174,
+        "sQuestion":"Lexy has 18 stickers. Ashaunte has 15 more stickers than Lexy. How many stickers does Ashaunte have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":175,
+        "sQuestion":"Juan has 324 marbles. Connie has 221 more than Juan. About how many marbles does Connie have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":176,
+        "sQuestion":"Mrs. T has 9 more horses than Wynter. Wynter has 15 horses. How many does Ms. T have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":177,
+        "sQuestion":"Brianna has 17 necklaces. Bridget has 2 more than Brianna. How many necklaces does Bridget have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":178,
+        "sQuestion":"Neatly has 7 fish. Perfect has 5 more than Neatly. How many fish does Perfect have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":179,
+        "sQuestion":"Chilly Willy saw 23 Blue whales. He saw 4 more Sperm whales than Blue whales. How many Sperm whales did he see?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":180,
+        "sQuestion":"Team A has 170 rushing yards. Team B has 50 more rushing yards. How many rushing yards does team B have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":181,
+        "sQuestion":"Sally saw 302 ants. Yunni saw 159 more ants than Sally. How many ants did Yunni see?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":182,
+        "sQuestion":"Quentin has 5 tractors. Matthew has 6 more than Quentin. How many does Matthew have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":183,
+        "sQuestion":"Bill has 89 markers. Jim has 21 more than Bill. How many markers does Jim have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":184,
+        "sQuestion":"Karlie has 136 books. She has 89 more than Zach. How many books does Zach have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":185,
+        "sQuestion":"Amanda has 27 crackers. She has 13 more crackers than Jelsie. How many crackers does Jelsie have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":186,
+        "sQuestion":"Tyler has 13 toy cars. He has 9 more than Bob. How many cars does Bob have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":187,
+        "sQuestion":"Levi has $43.00. He has $20 more than Joseph. How much money does Joseph have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":188,
+        "sQuestion":"Mark had some marbles. Tyler had 7 times as many as Mark. If Tyler has 35 marbles, how many does Mark have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":189,
+        "sQuestion":"Ben has 75 pizzas. He has 25 more than Dan. How many pizzas does Dan have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":190,
+        "sQuestion":"Abby has 26 stickers. She has 7 more stickers than Denise. How many stickers does Denise have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":191,
+        "sQuestion":"Henok has 352 M & Ms. He has 100 more M & Ms than Oliva. How many M & Ms does Oliva have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":192,
+        "sQuestion":"Maggie has 62 coins. She has 41 more than Jacob. How many coins does Jacob have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":193,
+        "sQuestion":"Sue has 102 pictures in her photo album. She has 21 more pictures than Sara. So how many pictures does Sue have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":194,
+        "sQuestion":"Lowell has 164 boys. There are 6 more boys than girls at Lowell. How many girls go to Lowell?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":195,
+        "sQuestion":"Natalie has $252.00. She has $75.00 less than Mariah. How much does Mariah have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":196,
+        "sQuestion":"Ashaunte has 15 stickers. Ashaunte had 3 fewer stickers than Lexy. How many stickers does Lexy have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":197,
+        "sQuestion":"Connie has 79 marbles. She has 17 more marbles than Juan. About how many marbles does Juan have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":198,
+        "sQuestion":"Vanessa has 7 horses. She has 5 more than Wynter. How many does Wynter have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":199,
+        "sQuestion":"Bridget has 15 gumballs. She has 7 more than Cody. How many gumballs does Cody have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":200,
+        "sQuestion":"Angel has 10 eggs. She has 5 fewer than Neatly. How many eggs does Neatly have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":201,
+        "sQuestion":"Chilly Willy has 7 fish. He has 6 more than Tacky. How many fish does Tacky have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":202,
+        "sQuestion":"Team A has 28 points. They have 4 points more than Team B. How many points does Team B have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":203,
+        "sQuestion":"Pam has 72 pieces of bubble gum. She has 24 more pieces than Kay. How many pieces of gum does Kay have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":204,
+        "sQuestion":"Nicole has 48 stickers. She has 36 more than Grace. How many stickers does Grace have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":205,
+        "sQuestion":"Andrew has 74 balloons. He has 36 more balloons than Max. How many balloons does Max have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":206,
+        "sQuestion":"Aliyah has 56 photos and Jacob has 189 photos. How many more photos does Jacob have than Aliyah?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":207,
+        "sQuestion":"Willy can lift 20 lbs. 6 oz. Bill can lift 16 lbs. 12 oz. How many more pounds can Willy lift?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":208,
+        "sQuestion":"LaNaya has $129. Cole $343. How much more money does Cole have than LaNaya?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":209,
+        "sQuestion":"Tanner has 32 cows. Dustin has 15 cows. How many more cows does Tanner have than Dustin?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":210,
+        "sQuestion":"Adam has $92.75. Jude has $57.25. How much more money does Adam have than Jude?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":211,
+        "sQuestion":"Sally has 75 puppies. Sara has 64 puppies. How many more puppies does sally have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":212,
+        "sQuestion":"Jon spent 1 hour and 25 minutes reading. Jamie spent 35 minutes reading. How much more time did Jon spend reading?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":213,
+        "sQuestion":"Johnny has 17 toy cars. Lucy has 27 toy dolls. How many more toys does Lucy have than Johnny?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":214,
+        "sQuestion":"Brian has 14 points in the basketball game. Eli has 6. How many more points does Brian have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":215,
+        "sQuestion":"Morgan has 761 homework points. Ashley has 596 points. How many more does Morgan have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":216,
+        "sQuestion":"Mary has $3.80. Tracy has $4.20. How much more money does Tracy have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":217,
+        "sQuestion":"John has 42 auction dollars. Michael has 21 auction dollars. How many more auction dollars does John have than Michael?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":218,
+        "sQuestion":"There are 14 snow forts on the playground and 10 snowmen. How many more forts are there than snowmen?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":219,
+        "sQuestion":"After a fishing trip, 4th grade had 35 fish. 3rd grade had 26 fish. How many more fish did 4th grade catch than 3rd grade?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":220,
+        "sQuestion":"Tony has 12 toy soldiers. Ben has 8 toy soldiers. How many more soldiers does Tony have than Ben?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":221,
+        "sQuestion":"Kylei has 33 cousins. Dinah has 15 cousins. How many more cousins does Kylie have than Dinah?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":222,
+        "sQuestion":"Rebekah has 23 hair bows. Samantha has 13 hair bows. How many more hair bows does Rebekah have than Samantha?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":223,
+        "sQuestion":"Jasmine has 73 pens. Brandon has 68 more than Jasmine. How many pens does Brandon have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":224,
+        "sQuestion":"Willy has 2 dozen crayons. Lucy has 1 dozen more than Willy. How many crayons does Lucy have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":225,
+        "sQuestion":"LaNaya has $129. Cole has $214 more than LaNaya. How much money does Cole have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":226,
+        "sQuestion":"Austin has 12 sheep. Mike has 11 more than Austin. How many sheep does Mike have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":227,
+        "sQuestion":"Sydney has $23.57. Joanna has $10.72 more than Sydney. How much money does Joanna have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":228,
+        "sQuestion":"Sally has 7 rocks in her collection. Sara has 12 times as many rocks in hers. How many more rocks does Sara have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":229,
+        "sQuestion":"Hope has 35 markers. Micayla has 15 more markers than Hope. How many markers does Micayla have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":230,
+        "sQuestion":"Salvador made 12 tortillas. Tony made 7 more tortillas than Salvador. How many tortillas did Tony make?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":231,
+        "sQuestion":"Emily has 1056 points. Sami has 93 more points than Emily. How many points does Sami have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":232,
+        "sQuestion":"Mrs. O. has 219 Ch. Books on her shelves. Mrs. R. has 113 more than Mrs. O. How many does Mrs. R have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":233,
+        "sQuestion":"Michelle has 2/4 of a pizza. Mark has 1 . more than Michelle. How many pizzas does Michelle have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":234,
+        "sQuestion":"Mr. Schmitz has read 13 . Prairie Pasque books. Reiley has read 1 more book than Mr. S. How many Prairie Pasque books has Reiley read?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":235,
+        "sQuestion":"There are 78 kids making snow angels. 4 more are sledding. How many kids are sledding?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":236,
+        "sQuestion":"Callie has 5 of a pizza at the luau. Carly has 5 more of the pizza than Callie. How much of the pizza does Carly have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":237,
+        "sQuestion":"Elyse has 36 ribbons. Allie has 12 more than Elyse. How many ribbons does Allie have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":238,
+        "sQuestion":"Dinah has 15 cousins. Kylei has 18 more cousins than Dinah. How many cousins does Kylei have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":239,
+        "sQuestion":"Samantha has 13 hair bows. Rebekah has 10 more than Sam. How many hair bows does Rebekah have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":240,
+        "sQuestion":"Mrs. Waider has 702 M & Ms. She has 293 more than Mrs. Rosenboom. How many M & Ms does Mrs. Rosenboom have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":241,
+        "sQuestion":"Lucy has 2 . dozen crayons. She has 5 more crayons than Willy. How many crayons does Willy have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":242,
+        "sQuestion":"Cole has $343. He has $214 more than LaNaya. How much money does LaNaya have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":243,
+        "sQuestion":"Jared has 34 cows. He has 14 less than his dad. How many cows does his dad have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":244,
+        "sQuestion":"Demi has $152.91. She has $23.10 more than Emma. How much money does Emma have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":245,
+        "sQuestion":"Sally had some rocks. Sara has 5 times as many as Sally. Sara has 65 rocks. How many more rocks does Sara have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":246,
+        "sQuestion":"Hope has 35 markers. She has 13 more than Micayla. How many markers does Micayla have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":247,
+        "sQuestion":"There are 7 bulletin boards in the hall at Eugene Field. There are two fewer boards at Harvey Dunn. How many bulletin boards are at Harvey Dunn school?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":248,
+        "sQuestion":"Matthew has a batting average of .125. His average is .015 better than Reilly. What is Reillys batting average?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":249,
+        "sQuestion":"Mr. B has 89 bugs in his collection. He has 16 more than Mrs. W. How many does Mrs. W. have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":250,
+        "sQuestion":"Tom has 4 CDs. He has 3 more of the collection than Marty has. How many CDs does Marty have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":251,
+        "sQuestion":"Oklahoma scored 21 points. They had 14 more than Nebraska. How many points did Nebraska score?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":252,
+        "sQuestion":"After coming inside the kids were cold. 4 had hot chocolate. 1 fewer wanted hot apple cider. How many had cider?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":253,
+        "sQuestion":"59 kids had hot chocolate. That is 5 more than had cider. How many kids had cider?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":254,
+        "sQuestion":"Ronny has 5/8 of the pizza at the luau. He has 2/8 more than John. How much of the pizza does John have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":255,
+        "sQuestion":"Elyse has 36 ribbons. She has 8 more than Allie. How many does Allie have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":256,
+        "sQuestion":"Kylei has 33 cousins. She has 18 more than Dinah. How many cousins does Dinah have?\n"
+    },
+    {
+        "iClass":1,
+        "iIndex":257,
+        "sQuestion":"Rebekah has 23 hair bows. She has 10 more than Sam. How many hair bows does Sam have?"
+    }
+]

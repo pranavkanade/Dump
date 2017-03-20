@@ -11,6 +11,6 @@ if __name__ == "__main__":
 
     # This call will automatically returns the list of processed tokens from the question
     # doc_question will contain the process 'DOC' object of the question string.
-    list_of_processed_tokens, doc_question = dfc.DataExtract().extract_list_of_tokens(question)
+    list_of_processed_tokens = dfc.DataExtract().extract_list_of_tokens(question)
 
     print(list_of_processed_tokens)

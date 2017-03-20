@@ -13,6 +13,7 @@ class DataExtract:
         doc_question = self.nlp_pipe.load_pipeline(question_)
         return doc_question
 
+    # TODO : this needs to be reviewed
     def extract_list_of_tokens(self, question_):
         list_of_required_tokens_in_question = []
         doc_question = self.data_preprocess(question_)
@@ -27,4 +28,4 @@ class DataExtract:
                     and (token.tag_ not in self.adjective_tag):
                 list_of_required_tokens_in_question.append(token.orth_)
 
-        return list_of_required_tokens_in_question, doc_question
+        return list_of_required_tokens_in_question
